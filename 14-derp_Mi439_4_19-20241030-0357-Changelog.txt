@@ -1,0 +1,29 @@
+====================                                                                                            10-30-2024
+====================
+                                                                                                            ====================                                                                                            10-29-2024
+====================                                                                                                                                                                                                    * device/xiaomi/Mi439
+5949f40  What do you think  [FARHAN MUH TASIM]
+b7f4324  It should added  [FARHAN MUH TASIM]                                                                
+
+====================                                                                                            10-28-2024
+====================
+
+* vendor/qcom/opensource/commonsys/fm                                                                       e03162f  Revert "FMApp2: Bring in the new icon"  [NurKeinNeid]                                              
+                                                                                                            ====================
+    10-27-2024
+====================
+                                                                                                            * device/xiaomi/Mi439
+7aa4574  Added string 🧵  [FARHAN MUH TASIM]
+                                                                                                            
+====================                                                                                            10-26-2024                                                                                              ====================                                                                                        
+* packages/apps/Dialer                                                                                      a9d8b3d  New Crowdin updates (#124)  [Lup Gabriel]
+e71cf9c  Update Crowdin configuration file  [Lup Gabriel]                                                   16ec40b  Dialer: Revamp swipes to new functionalities  [Dixzz]                                              efd26e0  Dialer: Fix in-call RTT banner item colors  [Tommy Webb]                                           1c849df  Dialer: Introduce swipe to call  [Rahul]
+415d73f  Dialer: Fix statusbar on light theme  [Pranav Vashi]                                               7e34388  Dialer: Properly set navigation bar theme  [Pranav Vashi]                                          6b079c1  Fix unnatural animation while move up "Swipe down to reject"  [Nishizawa Nobuhiro]                 08ab269  Dialer: Rework empty illustrations  [minarypenguin]                                                5885aaf  Dialer: Move Sensor settings to Other settings  [ShevT]                                            86ccb3d  Dialer: Add toggle for post call snackbar  [xyyx]
+cf322b8  Dialer: Add ability to set full screen photos for calls  [Alexey Derendyaev]                       e7d225e  Dialer: Fix LetterTileDrawable for all languages  [Pranav Vashi]                                   9821686  InCallUI: SmartMute  [Pranav Vashi]                                                                076cd3a  Dialer: Use system fonts  [Pranav Vashi]                                                           1cc4942  Fix NPE in InCallPresenter  [Daniel Kutik]                                                         5e47dd0  Fix to show voice mail notification icon for multi-sim  [Susheel Nyamala]                          ebd392b  Dialer: Add option to disable proximity sensor  [maxwen]
+8a76d60  Dialer: CallLogFragment: Move Un-registering call log observer to destroy  [Varun Date]
+0a0427e  Dialer: Enable auto call recording for all  [Pranav Vashi]
+16d1b90  Autostart call recording implementation  [ishland]
+63c2ad4  Dialer: Make recording names sortable  [Pranav Vashi]
+ab349f7  Dialer: Enable call recording for all  [Pranav Vashi]
+d4b6889  Dialer: Remove unused drawable declaration  [Pranav Vashi]
+90be278  Set use_resource_processor: false for Dialer  [Colin Cross]
